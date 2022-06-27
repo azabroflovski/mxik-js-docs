@@ -1,0 +1,35 @@
+{
+  "name": "mxik-js-docs",
+  "version": "1.0.0",
+  "description": "mxik-js documentation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "serve": "vitepress serve src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azabroflovski/mxik-js-docs.git"
+  },
+  "keywords": [
+    "mxik",
+    "mxik-js",
+    "mxikjs",
+    "docs",
+    "azabroflovski"
+  ],
+  "author": "azabroflovski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azabroflovski/mxik-js-docs/issues"
+  },
+  "homepage": "https://github.com/azabroflovski/mxik-js-docs#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  },
+  "dependencies": {
+    "vue": "^3.2.37"
+  }
+}
