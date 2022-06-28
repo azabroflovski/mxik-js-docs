@@ -49,9 +49,9 @@ function sidebarList() {
       {
          text: 'API',
          items: [
-            { text: 'MXIKSearch', link: '/api/import-service' },
-            { text: 'MXIKSearchByCode', link: '/api/add-product' },
-            { text: 'MXIKDetails', link: '/api/add-product' }
+            { text: 'MXIKSearch', link: '/api/MXIKSearch' },
+            { text: 'MXIKSearchByCode', link: '/api/MXIKSearchByCode' },
+            { text: 'MXIKDetails', link: '/api/MXIKDetails' }
          ]
       }
    ]
