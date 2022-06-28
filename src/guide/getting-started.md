@@ -2,6 +2,12 @@
 
 Simple package for API calls tasnif.soliq.uz ( written in TypeScript ⚡)
 
+::: warning
+The documentation is not completely written, 
+but you can freely use the library in a production environment. 
+See [README](https://github.com/azabroflovski/mxik-js/blob/master/README.md) for more
+:::
+
 ## Installation
 
 First, add mxik-js to your project as a dependency
